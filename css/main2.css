@@ -1,0 +1,59 @@
+.wrap{
+    width: 1200px;
+    margin: 30px auto;
+}
+.clear{
+    clear: both;
+}
+.cube-1{
+    width: 120px;
+    height: 120px;
+    border: 1px solid transparent;
+    background-color: red;
+    float: left;
+    box-shadow: 0 0 40px blue,-0 -0 40px blue;
+}
+.cube-2{
+    width: 120px;
+    height: 120px;
+    border: 1px solid transparent;
+    background-color: red;
+    float: left ;
+    margin-left: 100px;
+    box-shadow: 30px 0 50px blue
+}
+.cube-3{
+    width: 120px;
+    height: 120px;
+    border: 1px solid transparent;
+    background-color: red;
+    float: left ;
+    margin-left: 100px;
+    box-shadow: 30px 30px 20px blue
+}
+.cube-4{
+    width: 120px;
+    height: 120px;
+    border: 1px solid transparent;
+    background-color: red;
+    float: left ;
+    box-shadow: 10px 10px 45px blue inset
+}
+.cube-5{
+    width: 120px;
+    height: 120px;
+    border: 1px solid transparent;
+    background-color: red;
+    float: left ;
+    margin-left: 100px;
+    box-shadow: 30px 0 50px blue inset
+}
+.cube-6{
+    width: 120px;
+    height: 120px;
+    border: 1px solid transparent;
+    background-color: red;
+    float: left ;
+    margin-left: 100px;
+    box-shadow: 30px 30px 20px blue inset
+}
